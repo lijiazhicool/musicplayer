@@ -1,0 +1,6 @@
+<resources>
+    <!-- 字号 -->
+    <dimen name="lp_text_size_big">16sp</dimen>
+    <dimen name="lp_text_size_middle">15sp</dimen>
+    <dimen name="lp_text_size_small">13sp</dimen>
+</resources>

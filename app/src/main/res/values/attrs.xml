@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Fragment切换动画执行时间-->
+  <integer name="lp_anim_duration">300</integer>
+
+  <attr name="ate_key" format="string" />
+</resources>
