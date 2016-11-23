@@ -1,6 +1,33 @@
 <resources>
-    <!-- 字号 -->
-    <dimen name="lp_text_size_big">16sp</dimen>
-    <dimen name="lp_text_size_middle">15sp</dimen>
-    <dimen name="lp_text_size_small">13sp</dimen>
+
+    <!--垂直方向-->
+    <dimen name="common_statusbar_height">24dip</dimen>
+    <dimen name="common_toolbar_height">56dip</dimen>
+    <dimen name="common_middle_height">48dip</dimen>
+    <dimen name="common_tab_height">72dip</dimen>
+
+    <dimen name="common_vertical_padding">8dip</dimen>
+    <dimen name="common_vertical_big_padding">16dip</dimen>
+
+
+    <!-- standard metrics -->
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_micro">4dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+    <dimen name="touch_raise">6dp</dimen>
+
+    <!-- App Primary Text Sizes -->
+    <dimen name="app_text_size_xsmall">11sp</dimen>
+    <dimen name="app_text_size_small">12sp</dimen>
+    <dimen name="app_text_size_medium">14sp</dimen>
+    <dimen name="app_text_size_large">18sp</dimen>
+    <dimen name="app_text_size_xlarge">20sp</dimen>
+    <dimen name="app_text_size_diff_large_small">6sp</dimen>
+
+    <!-- line spacing -->
+    <item name="body_1_spacing" format="float" type="dimen">1.22448979592</item>
+    <item name="h3_spacing" format="float" type="dimen">1.14285714286</item>
+
+
 </resources>

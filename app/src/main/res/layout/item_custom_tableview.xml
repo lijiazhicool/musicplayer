@@ -15,8 +15,8 @@
         android:id="@+id/item_smartlayout_tableview_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        style="@style/TextAppearance.AppCompat.Title"
         android:gravity="center"
         tools:text="新闻"
-        android:textColor="@color/lp_selector_custom_tab"
-        android:textSize="@dimen/lp_text_size_middle" />
+        android:textSize="@dimen/app_text_size_medium" />
 </LinearLayout>
